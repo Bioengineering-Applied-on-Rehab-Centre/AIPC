@@ -1,2 +1,2 @@
 # AIPC
-Automation of a Intermittent Pneumatic Compression (ICP) focused on post-mastectomy patients
+Automation of a Intermittent Pneumatic Compression (IPC) focused on post-mastectomy patients
